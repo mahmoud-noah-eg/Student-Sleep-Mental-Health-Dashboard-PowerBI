@@ -24,7 +24,7 @@ The goal is to provide meaningful insights that help understand the factors infl
 
 ## 📊 Dashboard Preview
 
-![Student Sleep Mental Health Dashboard](Student-Sleep-Mental-Health-Dashboard-PowerBI/blob/main/Student%20Sleep%20%20Mental%20Health%20Dashboard_MN.png)
+![Student Sleep Mental Health Dashboard](https://github.com/mahmoud-noah-eg/Student-Sleep-Mental-Health-Dashboard-PowerBI/blob/main/Student%20Sleep%20%20Mental%20Health%20Dashboard_MN.png)
 
 ---
 
