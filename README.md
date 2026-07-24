@@ -97,20 +97,7 @@ The dataset contains information about students' lifestyle habits and mental hea
 - Gender
 - Education Level
 
----
 
-## 📁 Repository Structure
-
-```undefined
-student-sleep-mental-health-dashboard/
-│
-├── README.md
-├── Student Sleep & Mental Health Dashboard.pbix
-├── dataset/
-│   └── student_sleep_mental_health_2026.csv
-├── images/
-│   └── dashboard.png
-```
 ---
 
 ## 👤 Author
@@ -121,7 +108,6 @@ Aspiring Data Analyst passionate about transforming data into meaningful insight
 
 ---
 
-## ⭐ If you found this project useful, feel free to give it a star!
 
 ## Skills Demonstrated
 
