@@ -2,11 +2,13 @@
 A comprehensive Power BI dashboard analyzing the impact of lifestyle habits, sleep patterns, and screen time on students' academic performance and mental health.
 # 💤 Student Sleep & Mental Health Dashboard
 
-## 📌 Project Overview
+## 📖 Project Overview
 
-This project presents an interactive Power BI dashboard that analyzes how students' lifestyle habits affect their mental health and academic performance. The dashboard explores relationships between sleep duration, screen time, exercise, caffeine intake, social media usage, burnout, stress, anxiety, and GPA.
+This project presents an interactive Power BI dashboard that analyzes how students' lifestyle habits influence their mental health and academic performance.
 
-The goal is to provide meaningful insights that help understand the factors influencing students' well-being and academic success.
+The dashboard explores the relationships between sleep duration, screen time, exercise, caffeine intake, social media usage, stress, anxiety, GPA, and burnout levels.
+
+By combining multiple KPIs and interactive visualizations, the dashboard helps identify behavioral patterns associated with better academic outcomes and improved well-being.
 
 ---
 
