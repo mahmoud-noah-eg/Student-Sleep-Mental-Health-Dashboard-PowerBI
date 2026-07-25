@@ -4,31 +4,52 @@ A comprehensive Power BI dashboard analyzing the impact of lifestyle habits, sle
 
 ## 📖 Project Overview
 
-This project presents an interactive Power BI dashboard that analyzes how students' lifestyle habits influence their mental health and academic performance.
+This project presents an interactive Power BI dashboard that analyzes the relationship between students' lifestyle habits, mental health, and academic performance.
 
-The dashboard explores the relationships between sleep duration, screen time, exercise, caffeine intake, social media usage, stress, anxiety, GPA, and burnout levels.
+The dashboard explores how factors such as sleep duration, screen time, exercise, study hours, caffeine intake, and social media usage influence key outcomes including GPA, stress level, anxiety score, and burnout. Through interactive KPIs, filters, and visualizations, the dashboard helps uncover meaningful patterns that support data-driven insights into student well-being and academic success.
 
-By combining multiple KPIs and interactive visualizations, the dashboard helps identify behavioral patterns associated with better academic outcomes and improved well-being.
+---
+
+## 🎯 Problem Statement
+
+Students' lifestyle habits play a significant role in their mental well-being and academic performance. Factors such as sleep duration, screen time, exercise, caffeine intake, and social media usage may influence stress levels, anxiety, burnout, and GPA.
+
+However, understanding these relationships through raw data alone is challenging. This project aims to transform student lifestyle data into an interactive dashboard that helps identify patterns, compare different student groups, and support data-driven understanding of the factors associated with mental health and academic performance.
 
 ---
 
 ## 🎯 Project Objectives
 
-- Analyze students' sleeping habits.
-- Measure the percentage of students experiencing burnout.
-- Explore the relationship between sleep quality and GPA.
-- Examine the impact of screen time on academic performance.
-- Analyze how exercise affects stress, anxiety, and burnout.
-- Compare burnout rates across different sleep categories.
-- Build an interactive dashboard for easy data exploration.
+The primary objectives of this project are to:
+
+- Analyze the relationship between students' lifestyle habits and their mental health.
+- Examine the impact of sleep duration on stress levels, anxiety, burnout, and academic performance.
+- Explore how screen time is associated with students' GPA.
+- Evaluate the effect of exercise on burnout and anxiety levels.
+- Monitor key student well-being metrics using interactive KPIs.
+- Design an interactive Power BI dashboard that enables users to explore data through filters and visualizations.
 
 ---
+
+## ❓ Key Business Questions
+
+- How does sleep duration affect students' stress levels?
+- How does sleep duration impact academic performance (GPA)?
+- Which sleep category has the highest number of students experiencing burnout?
+- How does exercise influence anxiety and burnout?
+- Is there a relationship between screen time and academic performance (GPA)?
+- How does screen time affect burnout?
+- What percentage of students experience burnout?
+
+ --- 
 
 ## 📊 Dashboard Preview
 
 ![Student Sleep Mental Health Dashboard](https://github.com/mahmoud-noah-eg/Student-Sleep-Mental-Health-Dashboard-PowerBI/blob/main/Student%20Sleep%20%20Mental%20Health%20Dashboard_MN.png)
 
 ---
+
+## 📈 Dashboard Features
 
 ## 📈 Key Performance Indicators (KPIs)
 
@@ -49,6 +70,13 @@ By combining multiple KPIs and interactive visualizations, the dashboard helps i
 
 ---
 
+### Interactive Filters
+- Gender
+- Sleep Category
+- Exercise Level
+
+--- 
+
 ## 📉 Dashboard Visualizations
 
 - Average Stress Level by Sleep Category
@@ -63,12 +91,21 @@ By combining multiple KPIs and interactive visualizations, the dashboard helps i
 
 ## 💡 Key Insights
 
-- Students with poor sleep experience the highest stress levels.
-- Healthy sleep is associated with the highest average GPA.
-- Burnout rates increase significantly with higher screen time.
-- Students who exercise more tend to have lower stress, anxiety, and burnout levels.
-- Screen time shows a negative correlation with academic performance.
-- Burnout is considerably more common among students with poor sleep habits.
+- Students with poor sleep (<6 hours) recorded the highest average stress level (8.7), while students with healthy sleep (>8 hours) had the lowest average stress level (6.3).
+
+- Students with healthy sleep (>8 hours) achieved the highest average GPA (3.49), followed by students with normal sleep (3.19), while poor sleepers had the lowest average GPA (2,86).
+
+- The Normal Sleep category recorded the highest number of students experiencing burnout (1,516 students), followed by Poor Sleep (196 students) and Healthy Sleep (327 students).
+
+- Students with High Exercise had the lowest burnout rate (52%), compared with Medium Exercise (70%) and Low Exercise (80%).
+
+- Students with High Exercise also recorded the lowest average anxiety score (6.6), while those with Low Exercise had the highest (7.7).
+
+- The scatter plot indicates a negative relationship between screen time and GPA, suggesting that students with higher screen time generally tend to have lower academic performance.
+
+- Burnout increased with screen time. Students in the High Screen Time category had the highest burnout percentage (90%), compared with Medium Screen Time (67%) and Low Screen Time (30%).
+
+- Overall, 67.97% of students in the dataset experienced burnout.
 
 ---
 
@@ -81,6 +118,17 @@ By combining multiple KPIs and interactive visualizations, the dashboard helps i
 - Data Visualization
 
 ---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- DAX Measures
+- KPI Design
+- Interactive Dashboard Design
+- Data Storytelling
+- Business Insights
+- Data Visualization
 
 ## 📂 Dataset
 
@@ -108,16 +156,11 @@ Mahmoud Noah
 
 Aspiring Data Analyst passionate about transforming data into meaningful insights using Power BI, SQL, Excel, and Python.
 
+- LinkedIn: www.linkedin.com/in/mahmoud-noah
+- GitHub: https://github.com/mahmoud-noah-eg
+
 ---
 
+⭐ If you found this project helpful, consider giving it a star!
 
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- DAX Measures
-- KPI Design
-- Interactive Dashboard Design
-- Data Storytelling
-- Business Insights
-- Data Visualization
+---
